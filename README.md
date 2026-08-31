@@ -3,7 +3,7 @@
 A Tableau dashboard visualising player character demographics for **Music City by Night**, a
 *Vampire: The Masquerade* 5th Edition play-by-post Discord server set in Nashville, Tennessee.
 
-**Live dashboard:** [View on Tableau Public](#)
+**Live dashboard:** https://public.tableau.com/views/MusicCitybyNightCensusDomain_17882127261440/MusicCitybyNightCensusandDomain?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## What it shows
 
@@ -19,13 +19,6 @@ Plus KPI tiles for active characters and active players. Selecting a sect filter
 `mcbn_roster.xlsx` — one row per active character (n = 40), with columns for character name,
 player, clan, age category, and sect.
 
-## Running it
-
-Open `Music_City_by_Night__Census___Domain.twbx` in
-[Tableau Desktop](https://www.tableau.com/products/desktop) or the free
-[Tableau Public Edition](https://www.tableau.com/products/public/download). The packaged
-workbook bundles the data and images, so nothing else is needed. The Domains map requires an
-internet connection to render.
 
 ## Notes
 
